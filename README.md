@@ -75,5 +75,4 @@ TODO_React/
 ```
 
 Author
-</br>
 Dharmik

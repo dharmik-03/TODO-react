@@ -1,7 +1,6 @@
-
 # 📝 React Todo App
 
-A clean and responsive Todo application built with React.js to practice and understand core React concepts.
+A clean and responsive Todo application built with **React.js** to practice and understand core React concepts.
 
 ## 🚀 Live Demo
 
@@ -9,8 +8,7 @@ A clean and responsive Todo application built with React.js to practice and unde
 
 ## 📸 Preview
 
-
-<img width="1444" height="679" alt="image" src="https://github.com/user-attachments/assets/5fab9123-9953-478d-b2fd-32cdb203a345" />
+<img width="1444" height="679" alt="React Todo App Preview" src="https://github.com/user-attachments/assets/5fab9123-9953-478d-b2fd-32cdb203a345" />
 
 ## ✨ Features
 
@@ -19,7 +17,7 @@ A clean and responsive Todo application built with React.js to practice and unde
 - 🗑️ Delete tasks
 - ✅ Mark tasks as completed
 - 📝 Add task descriptions
-- 📊 Display total, completed and remaining tasks
+- 📊 Display total, completed, and remaining tasks
 - 🔄 Update todo status dynamically
 - 📱 Responsive user interface
 
@@ -48,25 +46,34 @@ A clean and responsive Todo application built with React.js to practice and unde
 
 ## 📂 Project Structure
 
-react-todo-app/
+```text
+TODO_React/
 │
 ├── public/
 │
 ├── src/
+│   ├── assets/
+│   │
 │   ├── components/
 │   │   ├── AddTODO.jsx
-│   │   └── TodoTable.jsx
-|   |   └──Status.jsx 
+│   │   ├── TodoTable.jsx
+│   │   └── status.jsx
 │   │
+│   ├── App.css
 │   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+│   ├── index.css
+│   └── main.jsx
 │
-├── screenshot.png
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
 ├── package.json
-├── vite.config.js
-└── README.md
+└── vite.config.js
 
+```
 
-👨‍💻 Author
+Author
+</br>
 Dharmik

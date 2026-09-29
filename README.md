@@ -1,11 +1,3 @@
-Live Link : https://todoreactds.vercel.app/
-
-**img **
-
-<img width="1444" height="679" alt="image" src="https://github.com/user-attachments/assets/5fab9123-9953-478d-b2fd-32cdb203a345" />
-
-
-
 
 # 📝 React Todo App
 
@@ -13,11 +5,12 @@ A clean and responsive Todo application built with React.js to practice and unde
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo](YOUR_LIVE_DEMO_LINK)
+🔗 https://todoreactds.vercel.app/
 
 ## 📸 Preview
 
-![React Todo App Preview](./screenshot.png)
+
+<img width="1444" height="679" alt="image" src="https://github.com/user-attachments/assets/5fab9123-9953-478d-b2fd-32cdb203a345" />
 
 ## ✨ Features
 
@@ -63,6 +56,7 @@ react-todo-app/
 │   ├── components/
 │   │   ├── AddTODO.jsx
 │   │   └── TodoTable.jsx
+|   |   └──Status.jsx 
 │   │
 │   ├── App.jsx
 │   ├── main.jsx
@@ -73,37 +67,6 @@ react-todo-app/
 ├── vite.config.js
 └── README.md
 
-## ⚙️ Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
-2. Navigate to the project
-cd react-todo-app
-3. Install dependencies
-npm install
-4. Start the development server
-npm run dev
-
-The application will run on the local development server provided by Vite.
-
-🎯 Project Purpose
-
-This project was built as part of my React learning journey.
-
-The main goal was to understand how React components, props, state, events and dynamic UI updates work together in a real project.
-
-🔮 Future Improvements
-Add local storage
-Add search and filtering
-Add task categories
-Add due dates
-Add dark mode
-Add backend/database integration
 👨‍💻 Author
 Dharmik
-
-Frontend Development Learner 🚀
-
-Currently learning React.js, JavaScript and Full-Stack Web Development.
